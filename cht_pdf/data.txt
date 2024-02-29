@@ -1,0 +1,4 @@
+My name is farid 
+I like to code in python 
+python is great.
+With python with can just create anything from data science application to web application
